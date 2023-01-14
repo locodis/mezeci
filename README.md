@@ -3,4 +3,4 @@
 <br>
 
 
-![önizleme](../../project_gifs/mezeci.gif)
+![](../../project_gifs/mezeci.gif)
